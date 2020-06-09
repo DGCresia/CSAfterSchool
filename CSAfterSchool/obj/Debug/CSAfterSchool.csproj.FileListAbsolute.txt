@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CSAfterSchool\CSAfterSchool\bin\Debug\CSAfterSchool.exe.config
+C:\Users\user\source\repos\CSAfterSchool\CSAfterSchool\bin\Debug\CSAfterSchool.exe
+C:\Users\user\source\repos\CSAfterSchool\CSAfterSchool\bin\Debug\CSAfterSchool.pdb
+C:\Users\user\source\repos\CSAfterSchool\CSAfterSchool\obj\Debug\CSAfterSchool.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CSAfterSchool\CSAfterSchool\obj\Debug\CSAfterSchool.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSAfterSchool\CSAfterSchool\obj\Debug\CSAfterSchool.exe
+C:\Users\user\source\repos\CSAfterSchool\CSAfterSchool\obj\Debug\CSAfterSchool.pdb

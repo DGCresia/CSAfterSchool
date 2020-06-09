@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\CSAfterSchool\Ex02_DataTime\bin\Debug\Ex02_DataTime.exe.config
+C:\Users\user\source\repos\CSAfterSchool\Ex02_DataTime\bin\Debug\Ex02_DataTime.exe
+C:\Users\user\source\repos\CSAfterSchool\Ex02_DataTime\bin\Debug\Ex02_DataTime.pdb
+C:\Users\user\source\repos\CSAfterSchool\Ex02_DataTime\obj\Debug\Ex02_DataTime.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSAfterSchool\Ex02_DataTime\obj\Debug\Ex02_DataTime.exe
+C:\Users\user\source\repos\CSAfterSchool\Ex02_DataTime\obj\Debug\Ex02_DataTime.pdb

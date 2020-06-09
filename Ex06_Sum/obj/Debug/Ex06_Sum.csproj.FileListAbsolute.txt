@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\CSAfterSchool\Ex06_Sum\bin\Debug\Ex06_Sum.exe.config
+C:\Users\user\source\repos\CSAfterSchool\Ex06_Sum\bin\Debug\Ex06_Sum.exe
+C:\Users\user\source\repos\CSAfterSchool\Ex06_Sum\bin\Debug\Ex06_Sum.pdb
+C:\Users\user\source\repos\CSAfterSchool\Ex06_Sum\obj\Debug\Ex06_Sum.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSAfterSchool\Ex06_Sum\obj\Debug\Ex06_Sum.exe
+C:\Users\user\source\repos\CSAfterSchool\Ex06_Sum\obj\Debug\Ex06_Sum.pdb
