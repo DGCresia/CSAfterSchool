@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\CSAfterSchool\ERx\bin\Debug\ERx.exe.config
+C:\Users\user\source\repos\CSAfterSchool\ERx\bin\Debug\ERx.exe
+C:\Users\user\source\repos\CSAfterSchool\ERx\bin\Debug\ERx.pdb
+C:\Users\user\source\repos\CSAfterSchool\ERx\obj\Debug\Ex07_Class.csprojAssemblyReference.cache
+C:\Users\user\source\repos\CSAfterSchool\ERx\obj\Debug\Ex07_Class.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSAfterSchool\ERx\obj\Debug\ERx.exe
+C:\Users\user\source\repos\CSAfterSchool\ERx\obj\Debug\ERx.pdb
