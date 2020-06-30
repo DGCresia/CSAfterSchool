@@ -10,6 +10,7 @@ namespace Ex08_Class
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
